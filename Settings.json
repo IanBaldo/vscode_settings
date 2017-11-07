@@ -1,0 +1,10 @@
+{
+  "editor.fontSize": 16,
+  "editor.cursorStyle": "block",
+  "editor.fontFamily": "'Monospace'",
+  "editor.minimap.enabled": true,
+  "editor.minimap.maxColumn": 30,
+  "workbench.iconTheme": "material-icon-theme",
+  "git.confirmSync": false,
+  "workbench.colorTheme": "Material Theme"
+}
